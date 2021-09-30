@@ -40,6 +40,14 @@ export default function App() {
   return (
     <div className="App">
       <div>
+        <p class="GitHub">
+          <a
+            href="https://github.com/ShoaibTamboli/Mark8-FruitInterpreter"
+            target="_blank"
+          >
+            GitHub
+          </a>
+        </p>
         <h1>Know your fruit!</h1>
         <p>Enter fruit emoji or Choose any fruit below to know fruit name.</p>
         <input placeholder="Enter fruit emoji" onChange={fruitinputhandler} />
