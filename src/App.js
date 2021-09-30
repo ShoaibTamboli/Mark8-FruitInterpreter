@@ -40,7 +40,7 @@ export default function App() {
   return (
     <div className="App">
       <div>
-        <p class="GitHub">
+        <p className="GitHub">
           <a
             href="https://github.com/ShoaibTamboli/Mark8-FruitInterpreter"
             target="_blank"
